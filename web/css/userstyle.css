@@ -1,0 +1,128 @@
+
+#outer
+{
+    height: 1200px;
+    width: 1000px;
+    margin: 0px auto;
+    //border: 1px solid;
+    box-shadow: 5px 5px 30px black;
+   
+}
+#uheader
+{
+    height: 100px;
+    width: 1000px;  
+}
+#ulogo{
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+#utitle{
+    height: 100px;
+    width: 900px;
+    float: left;
+    background-image: url('../images/ban.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#udetails{
+    height: 50px;
+    width: 1000px;
+    margin-top: 5px;
+
+}
+#ld{
+    height: 50px;
+    width: 495px;
+    float: left;
+    background-color: #CACFD2;
+    border: 1px solid;
+    
+}
+#rd{
+    height: 50px;
+    width: 500px;
+    float: left;
+    background-color: #CACFD2;
+    text-align: center;
+    font-size: 35px;
+    border:1px solid;
+}
+#umenu{
+    height: 50px;
+    width: 1000px;
+    margin-top:  5px;
+    background-color: black;
+    border: 1px solid;
+}
+#umenu ul
+{
+    list-style-type:none;
+}
+#umenu ul li
+{
+
+    display:inline;
+    //border:1px solid;
+    padding:10px;
+    color:white;
+    font-family:verdana;
+   // text-align:center;
+
+}
+#umenu a:hover{
+    background-color: white;
+    color: black;
+}
+#umenu a{
+    color:white;
+    text-decoration: none;
+}
+#container{
+    height: 880px;
+    width: 1000px;
+    margin-top:  5px;
+    background-image: url('../images/a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#ufooter{
+    height: 100px;
+    width: 1000px;
+    margin-top:  5px;
+
+}
+#ulfooter{
+    height: 100px;
+    width: 498px;
+    float: left;
+    color:white;
+    border-right: 1px solid white;
+    background-color:black;
+
+}
+#urfooter{
+    height: 100px;
+    width: 500px;
+    float: left;
+    color: white;
+    background-color: black;
+}
+#id{
+    text-align: center;
+    font-size: 35px;
+        
+}
+body
+{
+    background-image: url('../images/a.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+  
+}
+
+
+

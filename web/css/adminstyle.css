@@ -1,0 +1,124 @@
+
+#outer
+{
+    height: 1200px;
+    width: 1000px;
+    margin: 0px auto;
+    // border: 1px solid;
+    box-shadow: 5px 5px 30px black;
+}
+#aheader
+{
+    height: 100px;
+    width: 1000px;  
+}
+#alogo{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+#atitle{
+    height: 100px;
+    width: 900px;
+    float: left;
+    background-image: url('../images/ban.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#adetails{
+    height: 50px;
+    width: 1000px;
+    margin-top: 5px;
+
+}
+#ald{
+    height: 50px;
+    width: 500px;
+    float: left;
+    background-color:#CACFD2;
+}
+#ard{
+    height: 50px;
+    width: 500px;
+    float: left;
+    background-color:#CACFD2;
+    text-align: center;
+    font-size: 35px;
+}
+#amenu{
+    height: 50px;
+    width: 1000px;
+    margin-top:  5px;
+    background-color: black;
+    border: 1px solid;
+}
+#amenu ul
+{
+    list-style-type:none;
+}
+#amenu ul li
+{
+
+    display:inline;
+    //border:1px solid;
+    padding:2px;
+    color:white;
+    font-family:verdana;
+    //text-align:center;
+
+}
+#amenu a:hover{
+    background-color: white;
+    color: black;
+}
+#amenu a{
+    color:white;
+    text-decoration: none;
+}
+#container{
+    height: 880px;
+    width: 1000px;
+    margin-top:  5px;
+    
+    background-image: url('../images/a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#afooter{
+    height: 150px;
+    width: 1000px;
+    margin-top:  5px;
+
+}
+#alfooter{
+    height: 150px;
+    width: 498px;
+    float: left;
+    color: white;
+    border-right: 1px solid white;
+    background-color:black;
+
+}
+#arfooter{
+    height: 150px;
+    width: 500px;
+    float: left;
+    color: white;
+    background-color: black;
+}
+#id{
+    text-align: center;
+    font-size: 35px;
+
+}
+body
+{
+    background-image: url('../images/a.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+  
+}
+
+
+
